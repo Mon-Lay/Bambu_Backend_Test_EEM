@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Bambu_Backend_Test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LENOVO
+Implementation-Vendor-Id: com.eduboot.example
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Bambu_Backend_Test
+Created-By: Maven Integration for Eclipse
+
