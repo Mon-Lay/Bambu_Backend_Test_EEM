@@ -1,3 +1,5 @@
+CREATE DATABASE  IF NOT EXISTS `bambu_backend_test_eem` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `bambu_backend_test_eem`;
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
 --
 -- Host: localhost    Database: bambu_backend_test_eem
